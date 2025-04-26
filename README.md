@@ -48,7 +48,7 @@ Screenshots
 ![WhatsApp Image 2025-04-26 at 7 55 41 PM](https://github.com/user-attachments/assets/4b5446e1-0574-486e-9114-b326242ed08c)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b329f87-60b3-4c86-835e-18b79e068d98" alt="Dashboard" width="400" />
+  <img src="https://github.com/user-attachments/assets/6b329f87-60b3-4c86-835e-18b79e068d98" alt="Dashboard" width="200" />
 </p>
 
 
