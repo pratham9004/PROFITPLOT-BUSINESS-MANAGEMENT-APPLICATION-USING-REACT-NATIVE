@@ -38,7 +38,10 @@ Start the project:
 expo start
 
 Screenshots
-![WhatsApp Image 2025-04-26 at 7 55 42 PM](https://github.com/user-attachments/assets/4b0bfa63-8e00-4a1f-a600-8f3f52c83f8d)
+![WhatsApp Image 2025-04-26 at 7 55 42 PM](https://github.com/user-attachments/assets/6b329f87-60b3-4c86-835e-18b79e068d98)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b329f87-60b3-4c86-835e-18b79e068d98" alt="Dashboard" width="400" />
+</p>
 
 
 License
