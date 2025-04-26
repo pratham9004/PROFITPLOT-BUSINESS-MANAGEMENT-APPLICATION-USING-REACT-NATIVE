@@ -53,8 +53,7 @@ expo start
 
 
 
-License
-This project is licensed under the MIT License.
+
 
 Contact
 For any queries or feedback, reach out at: [chavdapratham399@gmail.com]
