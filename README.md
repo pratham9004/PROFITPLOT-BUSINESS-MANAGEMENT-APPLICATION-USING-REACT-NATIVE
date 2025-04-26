@@ -22,22 +22,21 @@ JavaScript
 Installation
 Clone the repository:
 
-1)Step
+<h2>1)Step</h2>
 git clone https://github.com/yourusername/ProfitPlot.git
 Navigate into the project directory:
 
-2)Step
+<h2>2)Step</h2>
 cd ProfitPlot
 Install dependencies:
 
-3)Step
+<h2>3)Step</h2>
 npm install
 Start the project:
 
-4)Step
+<h2>4)Step</h2>
 expo start
 
-Screenshots
 <h2>📸 App Screenshots</h2>
 
 <p align="center">
