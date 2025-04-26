@@ -38,7 +38,15 @@ Start the project:
 expo start
 
 Screenshots
-![WhatsApp Image 2025-04-26 at 7 55 42 PM](https://github.com/user-attachments/assets/6b329f87-60b3-4c86-835e-18b79e068d98)
+![WhatsApp Image 2025-04-26 at 7 55 34 PM](https://github.com/user-attachments/assets/47729f25-c0a2-4cdb-8e66-4de6f34ae640)
+![WhatsApp Image 2025-04-26 at 7 55 35 PM](https://github.com/user-attachments/assets/f8bf37c7-df67-4ed6-a0e5-78bdbd33160e)
+![WhatsApp Image 2025-04-26 at 7 55 35 PM (1)](https://github.com/user-attachments/assets/81d580cb-cda3-4a61-99b2-3d7c5bcaba52)
+![WhatsApp Image 2025-04-26 at 7 55 35 PM (2)](https://github.com/user-attachments/assets/e22a1449-eed0-4192-bf20-598cbd3f4127)
+![WhatsApp Image 2025-04-26 at 7 55 35 PM (3)](https://github.com/user-attachments/assets/b1046d06-f127-40ab-befc-e5a51f79ca94)
+![WhatsApp Image 2025-04-26 at 7 55 36 PM](https://github.com/user-attachments/assets/d6238576-75c8-44c2-a3fd-a492aebb6c30)
+![WhatsApp Image 2025-04-26 at 7 55 36 PM](https://github.com/user-attachments/assets/fae85564-e356-4397-95fa-859250f19278)
+![WhatsApp Image 2025-04-26 at 7 55 41 PM](https://github.com/user-attachments/assets/4b5446e1-0574-486e-9114-b326242ed08c)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b329f87-60b3-4c86-835e-18b79e068d98" alt="Dashboard" width="400" />
 </p>
